@@ -1,10 +1,11 @@
 @charset "UTF-8";
 /* todas as demais midias */
 /* pequenas telas
-Celular de 600px até 768px
-Tablet  de 768 até 992px
-Desktop de 992px até 1200px
-Grandes telas acima de 1200px 
+Celular de 320px até 480px
+           481px até 768px
+Tablet  de 769 até 1024px
+Desktop de 1025px até 1200px
+Grandes telas acima de 1201px 
 */
 /* Impressoras */
 @media print
